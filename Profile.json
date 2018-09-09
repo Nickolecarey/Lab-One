@@ -1,0 +1,21 @@
+{
+  "firstName"     : "Marley",
+  "lastName"      : "Davis",
+  "displayHandle" : "hey_its_marley",
+  "age"           : 20,
+  "active"        : true,
+  "posts"         : [
+    {
+      "website" : "twitter",
+      "text"    : "The only person you should try to be better than is the one you were yesterday."
+    }
+    {
+      "website" : "facebook",
+      "text"    : "There comes a point in our lives when we begin to understand and appreciate the reasons why we needed to just let go of some people we could have chosen to love!"
+    }
+    {
+      "website" : "twitter",
+      "text"    : " Life is a book. Sadly, I am writing in pen so I can't go back and erase the mistakes I have made."
+    }
+                    ]
+}
