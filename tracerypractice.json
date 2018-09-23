@@ -1,0 +1,107 @@
+{
+	"firstName": [
+		"Avery",
+		"Riley",
+		"Jordan",
+		"Angel",
+		"Parker",
+		"Sawyer",
+		"Peyton",
+		"Quinn",
+		"Blake",
+		"Hayden",
+		"Taylor",
+		"Alexis",
+		"Rowan",
+		"Charlie",
+		"Emerson",
+		"Finley",
+		"River",
+		"Ariel",
+		"Emery",
+		"Morgan"
+	],
+	"lastName": [
+		"Smith",
+		"Johnson",
+		"Williams",
+		"Jones",
+		"Brown",
+		"Davis",
+		"Miller",
+		"Wilson",
+		"Moore",
+		"Taylor",
+		"Anderson",
+		"Thomas",
+		"Jackson",
+		"White",
+		"Harris",
+		"Martin",
+		"Thompson",
+		"Garcia",
+		"Martinez",
+		"Robinson",
+		"Clark",
+		"Rodriguez"
+
+	],
+	"occupation": [
+		"single-parent",
+		"graphic designer",
+		"inventor",
+		"daycare operator",
+		"weather reporter",
+		"door-to-door salesperson",
+		"factory foremen"
+	],
+  "always": [
+    "always",
+		"constantly",
+		"regularly",
+		"repeatedly",
+		"never",
+		"not",
+		"never",
+		"rarely"
+  ],
+  "expecting": [
+    "anticipating",
+		"expecting",
+		"assuming",
+		"forseeing",
+		"preparing",
+		"hoping",
+		"wishing",
+		"praying",
+		"waiting"
+  ],
+	"find": [
+		"discover",
+		"find",
+		"uncover",
+		"come across"
+	],
+	"pronoun": [
+		"their",
+		"their",
+		"their",
+		"his",
+		"her"
+	],
+	"place": [
+		"basement",
+		"attic",
+		"house",
+		"bedroom",
+		"car",
+		"trunk",
+		"backyard",
+		"garden",
+		"shed",
+		"garage"
+	],
+	"orgin": [
+		"#firstName# #lastName#, a #occupation#, was #always# #expecting# to #find# THIS in #pronoun# #place#!"
+	]
+}
